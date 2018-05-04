@@ -1,0 +1,88 @@
+<DOCUMENTO>
+   <ORIGEM>2</ORIGEM>
+   <CABECALHO>
+      <!--Tabela TPDOC Campo CODIGO-->
+      <TPDOCUM>FT</TPDOCUM>
+      <!--Tabela NOMSERIE Campo SERIE-->
+      <SERIE>9</SERIE>
+      <!--Tabela NUMDOC Campo NUM (Para documentos novos a API faz a gestão da numeração automaticamente)-->
+      <NNUMDOC>1</NNUMDOC>
+      <!--Ter em atenção a coerência entre numeradores e data dos documentos-->
+      <DATA>18-05-2018</DATA>
+      <!--Tabela SECTORES Campo CODIGO-->
+      <SECTOR>ANS</SECTOR>
+      <!--Válido para documentos da área de compras deve conter uma referência com o documento do fornecedor. É indice,se for preenchido não pode haver dois vossos numeros repetidos no mesmo ano -->
+      <VNUMDOC/>
+      <!--Tabela CLIENTES ou FORNEC Campo CODIGO-->
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB>10</DESCCAB>
+      <!--Tabela VENDEDOR campo CODIGO-->
+      <VENDEDOR>DIR</VENDEDOR>
+      <!--Tabela RGIVA Campo CODIGO-->
+      <RGIVA>NAC</RGIVA>
+      <!--Tabela MOEDAS Campo CODIGO-->
+      <MOEDA>EUR</MOEDA>
+      <!---1 Sim, 0 Não. Tabela SECTORES Campo IVAINC-->
+      <IVAINC>0</IVAINC>
+      <!--Tabela DESCPGT Campo CODIGO-->
+      <DESCPP/>
+      <!--Tabela REGRVCT Campo CODIGO-->
+      <PRAZOPGT/>
+      <!--Tabela MODOPGT Campo CODIGO-->
+      <MODOPGT>CHQ</MODOPGT>
+      <!--Tabela EXPEDIR Campo CODIGO-->
+      <EXPEDIR/>
+      <!--Tabela TPMORADA Campo CODIGO-->
+      <ONDEENV/>
+      <!--Tabela TPMORADA Campo CODIGO-->
+      <ONDEENTR/>
+      <!--Tabela CLIENTES ou FORNEC Campo NCONTRIB-->
+      <NCONTRIB>123456789</NCONTRIB>
+      <ARREDIVA/>
+      <OBSERV>DOC CRIADO VIA API</OBSERV>
+      <!--Tabela VENDEDOR Campo CODIGO-->
+      <GESCNT/>
+      <PESOTOT/>
+      <VOLTOT/>
+      <LOCALCG/>
+      <LOCALDSG/>
+      <TRANSP/>
+      <MEIOTRP/>
+      <!--Válido para encomendas - 0 Não, 1 Sim-->
+      <APROVADO/>
+      <DATAAPRO/>
+      <RESPAPRO/>
+      <PROCESSO/>
+      <EAN/>
+      <!--Não aplicável em documentos de clientes ou fornecedores-->
+      <TPPRECO/>
+   </CABECALHO>
+   <LINHAS>
+      <LIN>
+         <!--1 - Linhas de documento, 2 - Despesas, 3 - Adiantamentos, 4 - Débitos em memória, 5 -Créditos em memória-->
+         <TPLINHA>1</TPLINHA>
+         <!--Tabela ARTIGOS Campo CODIGO-->
+         <ARTIGO>CAF01</ARTIGO>
+         <DESCR>TESTE DEMO API</DESCR>
+         <PRUNIT>100</PRUNIT>
+         <QUANT>1</QUANT>
+         <DESCONTO/>
+         <IVA>23</IVA>
+         <!--Tabela ARMAZENS Campo CODIGO-->
+         <ARMAZEM>AR1</ARMAZEM>
+         <!--Tabela UNID Campo COD-->
+         <UNIDADE>UN</UNIDADE>
+      </LIN>
+      <LIN>
+         <TPLINHA>1</TPLINHA>
+         <ARTIGO>BAT01</ARTIGO>
+         <DESCR>TESTE DEMO API 2</DESCR>
+         <PRUNIT>200</PRUNIT>
+         <QUANT>1</QUANT>
+         <DESCONTO/>
+         <IVA>23</IVA>
+         <ARMAZEM>AR1</ARMAZEM>
+         <UNIDADE>UN</UNIDADE>
+      </LIN>
+   </LINHAS>
+</DOCUMENTO>

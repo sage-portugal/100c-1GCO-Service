@@ -1,0 +1,103 @@
+<ARTIGO>
+   <CODIGO>X3</CODIGO>
+   <CODBARRA/>
+   <ABREV/>
+   <NOME>Artigo Demo Api Linha Next Plus</NOME>
+   <!--1-Isento,2-Reduzida,3-Intermédia,4-Normal-->
+   <IVA>1</IVA>
+   <ULTPRCOM/>
+   <PRSTND/>
+   <!--Tabela MEDIDAS Campo COD-->
+   <FORMULA/>
+   <STDISP/>
+   <ULTPMP/>
+   <STMIN/>
+   <!--Tabela ARTCT Campo SIGLA-->
+   <CNVENDAS/>
+   <!--Tabela ARTCT Campo SIGLA-->
+   <CNCOMPRA/>
+   <!--0-Artigos Simples-->
+   <TCOMPOSI/>
+   <STMAX/>
+   <!--Tabela ARTIGOS Campo CODIGO-->
+   <ARTSUBST/>
+   <!--Tabela ARTIGOS Campo CODIGO-->
+   <ARTASSOC/>
+   <DECQUANT/>
+   <OBSERV/>
+   <BLNOTAS/>
+   <!--Tabela FAMILIA Campo COD-->
+   <FAMILIA/>
+   <!--Tabela SUBFAMIL Campo COD-->
+   <SUBFAMIL/>
+   <!--0 Não, -1 Sim-->
+   <CTRSTOCK/>
+   <DTULTCP/>
+   <!--Tabela NC2000 Campo NC-->
+   <CODPAUTA/>
+   <STKREP/>
+   <!--Tabela GRUPOS Campo COD-->
+   <GRUPO/>
+   <PESO/>
+   <VOLUME/>
+   <CUSTOSAD/>
+   <PONTOENC/>
+   <!--Tabela POC Campo CONTA-->
+   <CNTINV/>
+   <!--Tabela FORNEC Campo CODIGO-->
+   <FORNEC/>
+   <DTENTR/>
+   <DTSAID/>
+   <!--1- Mercadoria,2- Outros Bens e serviços,3- Imobilizado-->
+   <TPBEM>1</TPBEM>
+   <!--Tabela UNID Campo COD-->
+   <UNBASE>UN</UNBASE>
+   <!--Tabela UNID Campo COD-->
+   <UNEMB/>
+   <!--Tabela UNID Campo COD-->
+   <UNTRANS/>
+   <FACTEMB/>
+   <FACTTRA/>
+   <!--Tabela UNID Campo COD-->
+   <UNCMP/>
+   <!--Tabela UNID Campo COD-->
+   <UNVND/>
+   <PRZENTVN/>
+   <EXMINPRE/>
+   <QTDMINEN/>
+   <CUSTFXEN/>
+   <DIASSKRS/>
+   <DIASPENC/>
+   <DIASSKMX/>
+   <PRZAPRV/>
+   <DTEXMIN/>
+   <VLREXIST/>
+   <!--Tabela ARTCT Campo SIGLA-->
+   <CNMVINT/>
+   <PVPCIVA/>
+   <PVPSIVA/>
+   <PCMPCIVA/>
+   <PCMPSIVA/>
+   <!--Tabela POC Campo CONTA-->
+   <CNTVENDA/>
+   <!--Tabela POC Campo CONTA-->
+   <CNTCOMPR/>
+   <!--0- Não, -1 Sim-->
+   <INACTIVO/>
+   <TVALORIZ/>
+   <PRAZOEXE/>
+   <CUSTOFAC/>
+   <!--Especifico Grelhas Tamanhos e Cores-->
+   <MEDHOR/>
+   <!--Especifico Grelhas Tamanhos e Cores-->
+   <MEDVERT/>
+   <!--Especifico Grelhas Tamanhos e Cores-->
+   <CODREF/>
+   <!--Especifico Grelhas Tamanhos e Cores-->
+   <TMHOR/>
+   <!--Especifico Grelhas Tamanhos e Cores-->
+   <TMVER/>
+   <ULTPRCBR/>
+   <STATISMA/>
+   <WEB/>
+</ARTIGO>

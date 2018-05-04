@@ -1,0 +1,105 @@
+<CLIENTE>
+   <CODIGO>X3</CODIGO>
+   <NOME>Cliente Demo Api</NOME>
+   <CONTACTO/>
+   <MORADA/>
+   <LOCAL/>
+   <!--Tabela CODPOST Campo COD-->
+   <CDPOSTAL/>
+   <TELEF/>
+   <FAX/>
+   <TELEX/>
+   <NIB/>
+   <!--Tabela BANCOS Campo CODIGO-->
+   <BANCO/>
+   <!--Tabela BALCOES Campo CODIGO-->
+   <BALCAO/>
+   <TPPRECO/>
+   <!--Tabela RGIVA Campo CODIGO-->
+   <REGIVA>NAC</REGIVA>
+   <DESCCAB/>
+   <!--Tabela REGRVCT Campo CODIGO-->
+   <REGVCT/>
+   <!--Tabela MODOPGT Campo CODIGO-->
+   <MODOPGT/>
+   <!--Tabela VENDEDOR Campo CODIGO-->
+   <VENDEDOR>VND1</VENDEDOR>
+   <!--Tabela EXPEDIR Campo CODIGO-->
+   <EXPEDIR/>
+   <PLAFOND/>
+   <!--Tabela TERCCT Campo SIGLA-->
+   <CNVENDAS/>
+   <BLNOTAS/>
+   <NCONTRIB/>
+   <!--Tabela MOEDAS Campo CODIGO-->
+   <MOEDA>EUR</MOEDA>
+   <!--Tabela ZONAGEO Campo ZONA-->
+   <ZONAGEO>PRT</ZONAGEO>
+   <OBSERV/>
+   <!--Tabela TIPTERA Campo CODIGO-->
+   <TIPOA/>
+   <!--Tabela TIPTERB Campo CODIGO-->
+   <TIPOB/>
+   <!--Tabela PAISES Campo COD-->
+   <PAIS>PT</PAIS>
+   <AJUSTPGT/>
+   <SUFCT/>
+   <PASSIVO/>
+   <DESCCOMP/>
+   <CONTGER/>
+   <CONTCOME/>
+   <CONTFIN/>
+   <!--Tabela IDIOMAS Campo CODIGO-->
+   <IDIOMA/>
+   <CAE/>
+   <!--Tabela BANCOS Campo CODIGO-->
+   <FACTORIN/>
+   <!--Tabela VENDEDOR Campo CODIGO-->
+   <GESCNT/>
+   <DATACRI/>
+   <!--0- Sob Controlo,1- Ilimitado,2- Sem Crédito-->
+   <TPCRED/>
+   <INCIDENT/>
+   <INCRELEV/>
+   <VLDTINI/>
+   <VLDTFIM/>
+   <VLRESP/>
+   <ENTCONS/>
+   <TOTTEMPO/>
+   <TELGER/>
+   <TELCOM/>
+   <TELFIN/>
+   <EMAIL/>
+   <NDIAAVVE/>
+   <!--0 Não, -1 Sim-->
+   <FACTRES/>
+   <BASEM/>
+   <VLTOTREG/>
+   <CTRLDT/>
+   <IMR/>
+   <AUTESP/>
+   <MAXDOC/>
+   <!--Tabela DESCPGT Campo CODIGO-->
+   <DESCPGT/>
+   <MEIOE/>
+   <SUJPROV/>
+   <RAT/>
+   <CONS/>
+   <!--Tabela TPMORADA Campo CODIGO-->
+   <MORENT/>
+   <!--Tabela TPMORADA Campo CODIGO-->
+   <MORDOC/>
+   <EMITAV/>
+   <IMRTRF/>
+   <VTRTRF/>
+   <TOTENC/>
+   <TOTENCAP/>
+   <DIASTOL/>
+   <CTRLPLF/>
+   <TOTGR/>
+   <TOTPEND/>
+   <!--0 Não, -1 Sim-->
+   <INACTIVO/>
+   <TOTFOLOB/>
+   <CODEDI/>
+</CLIENTE>

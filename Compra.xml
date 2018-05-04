@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<DOCUMENTO>
+   <ORIGEM>1</ORIGEM>
+   <!--(0) NaoIndicado = Valor por omissăo, inibe qualquer operaçăo: Validar ou Inserir -->
+   <!--(1) NaoAplicavel = Para documentos sem relevância fiscal, Orçamentos e Encomendas -->
+   <!--(2) Finalizado = Documento criado numa outra aplicaçăo de Gestăo Comercial -->
+   <!--(3) Preparacao = Documento supenso a gravar no Next, deve ser transformado em definitivo manualmente  -->
+  <CABECALHO>
+    <TPDOCUM>CCF</TPDOCUM>
+    <SERIE>1</SERIE>
+    <DATA>14-02-2018</DATA>
+    <SECTOR>ANS</SECTOR>
+    <VNUMDOC>901/17611904</VNUMDOC>
+    <TERCEIRO>001</TERCEIRO>
+    <DESCCAB>10</DESCCAB>
+    <RGIVA>NAC</RGIVA>
+    <MOEDA>EUR</MOEDA>
+    <IVAINC>1</IVAINC>
+    <DESCPP />
+    <PRAZOPGT />
+    <MODOPGT>CHQ</MODOPGT>
+    <EXPEDIR />
+    <ONDEENV />
+    <ONDEENTR />
+    <NCONTRIB>500201307</NCONTRIB>
+    <ARREDIVA />
+    <OBSERV>DOC CRIADO VIA API</OBSERV>
+    <GESCNT />
+    <PESOTOT />
+    <VOLTOT />
+    <LOCALCG />
+    <LOCALDSG />
+    <TRANSP />
+    <MEIOTRP />
+    <APROVADO />
+    <DATAAPRO />
+    <RESPAPRO />
+    <PROCESSO />
+    <EAN />
+    <TPPRECO />
+    <ORIGEM>1</ORIGEM>
+  </CABECALHO>
+  <LINHAS>
+    <LIN>
+      <TPLINHA>1</TPLINHA>
+      <ARTIGO>CAF01</ARTIGO>
+      <DESCR>Café</DESCR>
+      <PRUNIT>7,57</PRUNIT>
+      <QUANT>1</QUANT>
+      <DESCONTO />
+      <IVA>23</IVA>
+      <ARMAZEM>001</ARMAZEM>
+      <UNIDADE>UN</UNIDADE>
+    </LIN>
+    <LIN>
+      <TPLINHA>1</TPLINHA>
+      <ARTIGO>BAT01</ARTIGO>
+      <DESCR>Batatas</DESCR>
+      <PRUNIT>20,03</PRUNIT>
+      <QUANT>1</QUANT>
+      <DESCONTO />
+      <IVA>23</IVA>
+      <ARMAZEM>001</ARMAZEM>
+      <UNIDADE>UN</UNIDADE>
+    </LIN>
+
+  </LINHAS>
+</DOCUMENTO>
